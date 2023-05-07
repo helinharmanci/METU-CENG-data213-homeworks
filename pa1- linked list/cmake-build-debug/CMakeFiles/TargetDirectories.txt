@@ -1,0 +1,3 @@
+/home/helinayca/lectures/data 213/pa1- linked list/cmake-build-debug/CMakeFiles/pa1__linked_list.dir
+/home/helinayca/lectures/data 213/pa1- linked list/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/helinayca/lectures/data 213/pa1- linked list/cmake-build-debug/CMakeFiles/rebuild_cache.dir
